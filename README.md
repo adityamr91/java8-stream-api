@@ -2,27 +2,27 @@
 
 Java8 Stream API
 
-All Intermediate operations
-	1.	filter()
-	2.	map()
-	3.	flatMap()
-	4.	distinct()
-	5.	sorted()
-	6.	peek()
-	7.	limit()
-	8.	skip()
+All Intermediate operations<br />
+	1.	filter()<br />
+	2.	map()<br />
+	3.	flatMap()<br />
+	4.	distinct()<br />
+	5.	sorted()<br />
+	6.	peek()<br />
+	7.	limit()<br />
+	8.	skip()<br />
 
-All Terminal Operations
-	1.	toArray()
-	2.	collect()
-	3.	count()
-	4.	reduce()
-	5.	forEach()
-	6.	forEachOrdered()
-	7.	min()
-	8.	max()
-	9.	anyMatch()
-	10.	allMatch()
-	11.	noneMatch()
-	12.	findAny()
-	13.	findFirst()	
+All Terminal Operations<br />
+	1.	toArray()<br />
+	2.	collect()<br />
+	3.	count()<br />
+	4.	reduce()<br />
+	5.	forEach()<br />
+	6.	forEachOrdered()<br />
+	7.	min()<br />
+	8.	max()<br />
+	9.	anyMatch()<br />
+	10.	allMatch()<br />
+	11.	noneMatch()<br />
+	12.	findAny()<br />
+	13.	findFirst()<br />	
