@@ -25,4 +25,5 @@ All Terminal Operations<br />
 	10.	allMatch()<br />
 	11.	noneMatch()<br />
 	12.	findAny()<br />
-	13.	findFirst()<br />	
+	13.	findFirst()<br />
+	14.	sum()
